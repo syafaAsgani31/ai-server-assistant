@@ -1,0 +1,15 @@
+[Unit]
+Description=AI Server Assistant with OpenRouter
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/../ # Sesuaikan direktori file ai_assistant_bot.py 
+WorkingDirectory=/home/../ # Sesuaikan dengan direktori file ai_assistant_bot.py
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User= # Sesuaikan dengan username server
+Environment=PYTHONUNBUFFERED=1
+
+[Install]
+WantedBy=multi-user.target
