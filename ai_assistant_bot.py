@@ -5,6 +5,8 @@ import asyncio
 import nest_asyncio
 
 # Pastikan sudah login dulu ke OpenRouter untuk dapat API Key
+#############################################################
+#############################################################
 
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
