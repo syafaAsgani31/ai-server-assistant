@@ -15,7 +15,7 @@ nest_asyncio.apply()
 
 TELEGRAM_TOKEN = "" # Ganti pake BOT token telegram masing-masing
 OPENROUTER_API_KEY = "" # Ganti pake API Key OpenRouter masing-masing
-YOUR_CHAT_ID =   # Ganti pake Chat ID telegram masing-masing 
+YOUR_CHAT_ID =   # Isi pake Chat ID telegram masing-masing 
 
 async def ask_gpt(prompt):
     try:
