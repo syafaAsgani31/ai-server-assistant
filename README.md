@@ -33,7 +33,7 @@ Isi token bot dan Chat ID Telegram dan API key OpenRouter
 python3 ai_assistant_bot.py
 
 # 5. Jika ingin otomatis run script saat booting :
-Lihat file systemd/aiassistant.service
+Lihat file systemd/aiassistant.service\n
 Sesuaikan direktori dan username
 
 Dan jalankan script command_reload_systemd.sh dengan cara :
