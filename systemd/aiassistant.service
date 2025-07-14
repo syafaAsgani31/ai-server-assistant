@@ -1,3 +1,5 @@
+# Script systemd agar service bot jalan otomatis saat booting server
+
 [Unit]
 Description=AI Server Assistant with OpenRouter
 After=network.target
