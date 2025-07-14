@@ -1,0 +1,4 @@
+python-telegram-bot==20
+psutil
+requests
+nest_asyncio
