@@ -20,7 +20,9 @@ Bot Telegram ini memudahkan server admin untuk :
 ## 🛠️ Instalasi
 
 # 1. Clone repository :
+
 git clone https://github.com/USERNAME/ai-assistant-server.git
+
 cd ai-assistant-server
 
 # 2. Install dependency :
