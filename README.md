@@ -1,20 +1,20 @@
 # AI ChatBot Assistant untuk Admin Server via Telegram Menggunakan OpenRouter AI
 
 Bot Telegram ini memudahkan server admin untuk :
-- 🔍 Mengecek log
-- 📊 Menampilkan resource usage (CPU, RAM, Disk)
-- 🔒 Menganalisis serangan via Fail2Ban
-- 💬 Konsultasi otomatis dengan AI via OpenRouter API
+- Mengecek log
+- Menampilkan resource usage (CPU, RAM, Disk)
+- Menganalisis serangan via Fail2Ban
+- Konsultasi otomatis dengan AI via OpenRouter API
 
 ## Fitur :
 
 | Perintah     | Fungsi                                                             |
 |--------------|------------------------------------------------------------------  |
-| `/ask` pertanyaan      | Konsultasi ke AI                                         |
+| `/ask`       | Konsultasi ke AI                                         |
 | `/log`       | Menampilkan syslog terbaru                                         |
 | `/resource`  | Tampilkan CPU, RAM, Disk                                           |
 | `/fail2ban`  | Analisis log Fail2Ban + AI                                         |
-| 🔔 Otomatis  | Alert CPU > 90% + AI bantu deteksi penyebab                        
+| Otomatis  | Alert CPU > 90% + AI bantu deteksi penyebab                        
 
 
 ## 🛠️ Instalasi
